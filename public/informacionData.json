@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "producto": "Leche",
+    "categoria": "Lácteos",
+    "descripcion_corta": "Leche entera, 1 litro.",
+    "descripcion_larga": "Leche entera de vaca, pasteurizada, en formato de 1 litro. Ideal para toda la familia, rica en calcio y nutrientes esenciales. Perfecta para consumir sola, con cereales o en la preparación de postres.",
+    "urlImagen": "https://todobaratotc.cl/wp-content/uploads/2022/08/Leche-entera-sin-tapa-1-L-1024x1024.png"
+  },
+  {
+    "id": 2,
+    "producto": "Pan",
+    "categoria": "Panadería",
+    "descripcion_corta": "Pan blanco, paquete de 6 piezas.",
+    "descripcion_larga": "Pan blanco, fresco y suave, elaborado con harina de trigo de alta calidad. Este pan es ideal para sandwiches, tostadas o acompañar tus comidas. Viene en un paquete de 6 piezas.",
+    "urlImagen": "https://copservir.vtexassets.com/arquivos/ids/770310/PAN-BLANCO-ACTILECHE_F.png"
+  },
+  {
+    "id": 3,
+    "producto": "Arroz",
+    "categoria": "Granos",
+    "descripcion_corta": "Arroz blanco, paquete de 1 kg.",
+    "descripcion_larga": "Arroz blanco de grano largo, de excelente calidad. Perfecto para preparar desde platos principales como arroz con pollo, hasta acompañamientos para comidas gourmet. El paquete contiene 1 kg.",
+    "urlImagen": "https://campovivo.com.mx/wp-content/uploads/2022/08/ARROZ_BLANCO_1Kg_ORGANICO_CAMPOVIVO.png"
+  },
+  {
+    "id": 4,
+    "producto": "Azúcar",
+    "categoria": "Panadería",
+    "descripcion_corta": "Azúcar blanca, 1 kg.",
+    "descripcion_larga": "Azúcar blanca refinada, ideal para endulzar bebidas, postres y recetas de repostería. Este paquete contiene 1 kg de azúcar de alta calidad que se disuelve fácilmente en líquidos.",
+    "urlImagen": "https://simahogar.com.ar/wp-content/uploads/2023/06/Azucar-Azucel-1Kg.png"
+  },
+  {
+    "id": 5,
+    "producto": "Huevos",
+    "categoria": "Lácteos",
+    "descripcion_corta": "Caja con 12 huevos frescos.",
+    "descripcion_larga": "Huevos frescos, provenientes de gallinas criadas de manera natural y sin hormonas. Cada caja contiene 12 huevos, ideales para preparar desde desayunos hasta platos gourmet.",
+    "urlImagen": "https://triomcbo.com/wp-content/uploads/2018/07/A778-Huevos-El-Tunal-Cart%C3%B3n-12-unidades.png"
+  },
+  {
+    "id": 6,
+    "producto": "Jamon",
+    "categoria": "Embutidos",
+    "descripcion_corta": "Jamon de pavo, 200 gramos.",
+    "descripcion_larga": "Jamon de pavo, bajo en grasa y rico en proteínas. Este producto se presenta en formato de 200 gramos, ideal para sandwiches, ensaladas o como acompañante de otros platillos.",
+    "urlImagen": "https://plazavea.vteximg.com.br/arquivos/ids/646487-1000-1000/20139645.jpg"
+  },
+  {
+    "id": 7,
+    "producto": "Pasta",
+    "categoria": "Alimentos",
+    "descripcion_corta": "Pasta de trigo, 500 gramos.",
+    "descripcion_larga": "Pasta de trigo, de textura firme y sabor delicioso. Este paquete de 500 gramos es perfecto para preparar una variedad de platillos, desde espaguetis hasta ensaladas de pasta.",
+    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/6/67/Spaghetti_dried.jpg"
+  },
+  {
+    "id": 8,
+    "producto": "Aceite",
+    "categoria": "Aceites y Salsas",
+    "descripcion_corta": "Aceite de oliva, 1 litro.",
+    "descripcion_larga": "Aceite de oliva extra virgen, de sabor suave y delicado. Ideal para aderezar ensaladas, cocinar a fuego medio o como base para salsas. Viene en botella de 1 litro.",
+    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Olive_oil.jpg"
+  },
+  {
+    "id": 9,
+    "producto": "Cereal",
+    "categoria": "Desayuno",
+    "descripcion_corta": "Cereal integral, 400 gramos.",
+    "descripcion_larga": "Cereal integral, una opción saludable y nutritiva para comenzar el día. El paquete de 400 gramos está lleno de fibra y vitaminas esenciales, perfecto para combinar con leche o yogurt.",
+    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/7/73/Breakfast_cereal.jpg"
+  },
+  {
+    "id": 10,
+    "producto": "Tomates",
+    "categoria": "Verduras",
+    "descripcion_corta": "Tomates frescos, 1 kg.",
+    "descripcion_larga": "Tomates frescos, de color rojo intenso y sabor dulce. Cada paquete contiene 1 kg de tomates ideales para ensaladas, salsas o como acompañamiento de tus platillos favoritos.",
+    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Tomato_je.jpg"
+  },
+  {
+    "id": 11,
+    "producto": "Pechuga de pollo",
+    "categoria": "Carnes",
+    "descripcion_corta": "Pechuga de pollo sin hueso, 500 gramos.",
+    "descripcion_larga": "Pechuga de pollo sin hueso, jugosa y tierna, de 500 gramos. Ideal para preparar a la parrilla, a la plancha o en sopas y guisos. Esta pechuga es rica en proteínas y baja en grasa.",
+    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Chicken_breast_raw.jpg"
+  },
+  {
+    "id": 12,
+    "producto": "Harina",
+    "categoria": "Panadería",
+    "descripcion_corta": "Harina de trigo, 1 kg.",
+    "descripcion_larga": "Harina de trigo refinada, ideal para repostería y panadería. Este paquete de 1 kg es perfecto para hacer panes, pasteles, galletas y otros postres caseros.",
+    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/6/69/Flour_sack.jpg"
+  },
+  {
+    "id": 13,
+    "producto": "Queso",
+    "categoria": "Lácteos",
+    "descripcion_corta": "Queso fresco, 250 gramos.",
+    "descripcion_larga": "Queso fresco de sabor suave y cremoso. Este queso de 250 gramos es perfecto para acompañar ensaladas, tacos, pastas o simplemente disfrutarlo en rebanadas sobre pan.",
+    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Cheese_platter.jpg"
+  },
+  {
+    "id": 14,
+    "producto": "Naranjas",
+    "categoria": "Frutas",
+    "descripcion_corta": "Naranjas frescas, 1 kg.",
+    "descripcion_larga": "Naranjas frescas, jugosas y de sabor dulce. Cada paquete contiene 1 kg de naranjas de alta calidad, perfectas para jugos frescos o comer directamente.",
+    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Orange_basket.jpg"
+  },
+  {
+    "id": 15,
+    "producto": "Lechuga",
+    "categoria": "Verduras",
+    "descripcion_corta": "Lechuga fresca, 1 pieza.",
+    "descripcion_larga": "Lechuga fresca, de hojas crujientes y sabor delicado. Ideal para preparar ensaladas, wraps o como acompañamiento de otros platillos. Una pieza por paquete.",
+    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Green_lettuce.jpg"
+  },
+  {
+    "id": 16,
+    "producto": "Pepino",
+    "categoria": "Verduras",
+    "descripcion_corta": "Pepinos frescos, 1 kg.",
+    "descripcion_larga": "Pepinos frescos, de sabor refrescante y textura crocante. El paquete de 1 kg es perfecto para ensaladas, salsas o como acompañamiento de platos frescos.",
+    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cucumber_cross_section.jpg"
+  },
+  {
+    "id": 17,
+    "producto": "Aguacate",
+    "categoria": "Frutas",
+    "descripcion_corta": "Aguacates frescos, 2 piezas.",
+    "descripcion_larga": "Aguacates frescos, cremosos y ricos en nutrientes. Cada paquete contiene 2 piezas de aguacate, ideales para guacamole, ensaladas o para disfrutar sobre pan tostado.",
+    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Avocado_fruit.jpg"
+  },
+  {
+    "id": 18,
+    "producto": "Yogur",
+    "categoria": "Lácteos",
+    "descripcion_corta": "Yogur natural, 500 gramos.",
+    "descripcion_larga": "Yogur natural, suave y cremoso, sin azúcares añadidos. Este envase de 500 gramos es ideal para acompañar con frutas, cereales o como parte de un desayuno saludable.",
+    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Yogurt_cup.jpg"
+  },
+  {
+    "id": 19,
+    "producto": "Plátanos",
+    "categoria": "Frutas",
+    "descripcion_corta": "Plátanos frescos, 1 kg.",
+    "descripcion_larga": "Plátanos frescos, de sabor dulce y textura suave. El paquete de 1 kg es perfecto para comer solos, hacer batidos o añadir a tus cereales.",
+    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/8/87/Banana_bunch.jpg"
+  },
+  {
+    "id": 20,
+    "producto": "Mantequilla",
+    "categoria": "Lácteos",
+    "descripcion_corta": "Mantequilla sin sal, 200 gramos.",
+    "descripcion_larga": "Mantequilla sin sal, de sabor suave y cremosa, ideal para cocinar, untar sobre pan o para repostería. Este paquete contiene 200 gramos.",
+    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Butter_in_dish.jpg"
+  }
+]
