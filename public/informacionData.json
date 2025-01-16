@@ -2,7 +2,7 @@
   {
     "id": 1,
     "producto": "Leche",
-    "categoria": "Lácteos",
+    "categoria": "Lacteos",
     "descripcion_corta": "Leche entera, 1 litro.",
     "descripcion_larga": "Leche entera de vaca, pasteurizada, en formato de 1 litro. Ideal para toda la familia, rica en calcio y nutrientes esenciales. Perfecta para consumir sola, con cereales o en la preparación de postres.",
     "urlImagen": "https://todobaratotc.cl/wp-content/uploads/2022/08/Leche-entera-sin-tapa-1-L-1024x1024.png"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "producto": "Huevos",
-    "categoria": "Lácteos",
+    "categoria": "Lacteos",
     "descripcion_corta": "Caja con 12 huevos frescos.",
     "descripcion_larga": "Huevos frescos, provenientes de gallinas criadas de manera natural y sin hormonas. Cada caja contiene 12 huevos, ideales para preparar desde desayunos hasta platos gourmet.",
     "urlImagen": "https://triomcbo.com/wp-content/uploads/2018/07/A778-Huevos-El-Tunal-Cart%C3%B3n-12-unidades.png"
@@ -53,7 +53,7 @@
     "categoria": "Alimentos",
     "descripcion_corta": "Pasta de trigo, 500 gramos.",
     "descripcion_larga": "Pasta de trigo, de textura firme y sabor delicioso. Este paquete de 500 gramos es perfecto para preparar una variedad de platillos, desde espaguetis hasta ensaladas de pasta.",
-    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/6/67/Spaghetti_dried.jpg"
+    "urlImagen": "https://a2.soysuper.com/def0f9c9962deaf994379b0fac0854c8.1024.0.0.0.wmark.f5b7fc19.jpg"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "categoria": "Aceites y Salsas",
     "descripcion_corta": "Aceite de oliva, 1 litro.",
     "descripcion_larga": "Aceite de oliva extra virgen, de sabor suave y delicado. Ideal para aderezar ensaladas, cocinar a fuego medio o como base para salsas. Viene en botella de 1 litro.",
-    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Olive_oil.jpg"
+    "urlImagen": "https://www.aceitesalbert.com/wp-content/uploads/2020/05/aceite-de-oliva-1-litro.jpg"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "categoria": "Desayuno",
     "descripcion_corta": "Cereal integral, 400 gramos.",
     "descripcion_larga": "Cereal integral, una opción saludable y nutritiva para comenzar el día. El paquete de 400 gramos está lleno de fibra y vitaminas esenciales, perfecto para combinar con leche o yogurt.",
-    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/7/73/Breakfast_cereal.jpg"
+    "urlImagen": "https://www.nestle-cereals.com/ac/sites/g/files/qirczx956/files/2023-02/41.png"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "categoria": "Verduras",
     "descripcion_corta": "Tomates frescos, 1 kg.",
     "descripcion_larga": "Tomates frescos, de color rojo intenso y sabor dulce. Cada paquete contiene 1 kg de tomates ideales para ensaladas, salsas o como acompañamiento de tus platillos favoritos.",
-    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Tomato_je.jpg"
+    "urlImagen": "https://morapp.co/wp-content/uploads/2020/10/Tomate-Chery-2.png"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "categoria": "Carnes",
     "descripcion_corta": "Pechuga de pollo sin hueso, 500 gramos.",
     "descripcion_larga": "Pechuga de pollo sin hueso, jugosa y tierna, de 500 gramos. Ideal para preparar a la parrilla, a la plancha o en sopas y guisos. Esta pechuga es rica en proteínas y baja en grasa.",
-    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Chicken_breast_raw.jpg"
+    "urlImagen": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750179165868L.jpg"
   },
   {
     "id": 12,
@@ -93,15 +93,15 @@
     "categoria": "Panadería",
     "descripcion_corta": "Harina de trigo, 1 kg.",
     "descripcion_larga": "Harina de trigo refinada, ideal para repostería y panadería. Este paquete de 1 kg es perfecto para hacer panes, pasteles, galletas y otros postres caseros.",
-    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/6/69/Flour_sack.jpg"
+    "urlImagen": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750140460311L.jpg"
   },
   {
     "id": 13,
     "producto": "Queso",
-    "categoria": "Lácteos",
+    "categoria": "Lacteos",
     "descripcion_corta": "Queso fresco, 250 gramos.",
     "descripcion_larga": "Queso fresco de sabor suave y cremoso. Este queso de 250 gramos es perfecto para acompañar ensaladas, tacos, pastas o simplemente disfrutarlo en rebanadas sobre pan.",
-    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Cheese_platter.jpg"
+    "urlImagen": "https://alimentika.cl/wp-content/uploads/2024/04/Queso-Fresco-Santa-Rosa-250-Gramos-12-Unidades-Por-Caja-1-2.png"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "categoria": "Frutas",
     "descripcion_corta": "Naranjas frescas, 1 kg.",
     "descripcion_larga": "Naranjas frescas, jugosas y de sabor dulce. Cada paquete contiene 1 kg de naranjas de alta calidad, perfectas para jugos frescos o comer directamente.",
-    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Orange_basket.jpg"
+    "urlImagen": "https://walmartar.vteximg.com.br/arquivos/ids/835758-1000-1000/Naranja-Valencia-X-1-Kg-1-16750.jpg"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "categoria": "Verduras",
     "descripcion_corta": "Lechuga fresca, 1 pieza.",
     "descripcion_larga": "Lechuga fresca, de hojas crujientes y sabor delicado. Ideal para preparar ensaladas, wraps o como acompañamiento de otros platillos. Una pieza por paquete.",
-    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Green_lettuce.jpg"
+    "urlImagen": "https://thumbs.dreamstime.com/b/lechuga-fresca-aislada-en-blanco-29751098.jpg"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "categoria": "Verduras",
     "descripcion_corta": "Pepinos frescos, 1 kg.",
     "descripcion_larga": "Pepinos frescos, de sabor refrescante y textura crocante. El paquete de 1 kg es perfecto para ensaladas, salsas o como acompañamiento de platos frescos.",
-    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cucumber_cross_section.jpg"
+    "urlImagen": "https://www.losfrescosdelbarrio.com/wp-content/uploads/2020/04/pepinos.jpg"
   },
   {
     "id": 17,
@@ -133,15 +133,15 @@
     "categoria": "Frutas",
     "descripcion_corta": "Aguacates frescos, 2 piezas.",
     "descripcion_larga": "Aguacates frescos, cremosos y ricos en nutrientes. Cada paquete contiene 2 piezas de aguacate, ideales para guacamole, ensaladas o para disfrutar sobre pan tostado.",
-    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Avocado_fruit.jpg"
+    "urlImagen": "https://thumbs.dreamstime.com/b/aguacate-fresco-aislado-59199858.jpg"
   },
   {
     "id": 18,
     "producto": "Yogur",
-    "categoria": "Lácteos",
+    "categoria": "Lacteos",
     "descripcion_corta": "Yogur natural, 500 gramos.",
     "descripcion_larga": "Yogur natural, suave y cremoso, sin azúcares añadidos. Este envase de 500 gramos es ideal para acompañar con frutas, cereales o como parte de un desayuno saludable.",
-    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Yogurt_cup.jpg"
+    "urlImagen": "https://images-na.ssl-images-amazon.com/images/I/81TQ92ogT1L._AC_SL1500_.jpg"
   },
   {
     "id": 19,
@@ -149,14 +149,14 @@
     "categoria": "Frutas",
     "descripcion_corta": "Plátanos frescos, 1 kg.",
     "descripcion_larga": "Plátanos frescos, de sabor dulce y textura suave. El paquete de 1 kg es perfecto para comer solos, hacer batidos o añadir a tus cereales.",
-    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/8/87/Banana_bunch.jpg"
+    "urlImagen": "https://supermercado.eroski.es/images/23628209_x.jpg"
   },
   {
     "id": 20,
     "producto": "Mantequilla",
-    "categoria": "Lácteos",
+    "categoria": "Lacteos",
     "descripcion_corta": "Mantequilla sin sal, 200 gramos.",
     "descripcion_larga": "Mantequilla sin sal, de sabor suave y cremosa, ideal para cocinar, untar sobre pan o para repostería. Este paquete contiene 200 gramos.",
-    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Butter_in_dish.jpg"
+    "urlImagen": "https://sparlapalma.com/documents/10180/12821/607097_G.jpg"
   }
 ]
